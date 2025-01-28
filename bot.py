@@ -40,7 +40,7 @@ class FoodState(StatesGroup):
 
 
 bd = {}
-token = "7372457157:AAHJ8aqTUoG6S2E5J7t9ufxjcMgzXcSDUGU"
+token = ""
 
 bot = Bot(token=token)
 dp = Dispatcher()
